@@ -1,0 +1,8 @@
+@import "@/variables.scss";
+
+.comnica-frame {
+  @include padding-width;
+  min-height: 100vh;
+  background-repeat: "repear";
+  background-size: contain;
+}

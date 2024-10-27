@@ -1,0 +1,9 @@
+@import "@/variables.scss";
+
+main {
+	//stretch page height to fill the window
+	.page-default {
+		height: 100%;
+		width: 100%;
+	}
+}
